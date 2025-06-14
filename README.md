@@ -39,7 +39,7 @@ I specialize in building **full-stack web applications**, **scalable APIs**, and
 
 <div align="center">
 
-<a href="https://github.com/sheikhshariarnehal/nesttask">
+<a href="https://github.com/nehalDIU/NestTask-V8.5-Depertment">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheikhshariarnehal&repo=nesttask&theme=react&hide_border=true&show_icons=true" />
 </a>
 
