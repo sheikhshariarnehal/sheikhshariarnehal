@@ -45,30 +45,6 @@ I specialize in building **full-stack web applications**, **scalable APIs**, and
 
 </div>
 
-### 📱 NestTask
-> University task management and scheduling PWA
-
-- 🔒 **Security:** Firebase Authentication
-- 📡 **Data:** Real-time and offline sync via IndexedDB + Background Sync
-- 💻 **Tech:** React, TypeScript, Tailwind UI
-- 🔔 **Features:** FCM Push Notifications, Telegram Bot integration
-
-### 🎥 Face Recognition Attendance System
-> Intelligent attendance tracking solution
-
-- 👁️ OpenCV for precision face detection
-- 🧠 Advanced face recognition algorithms
-- 📊 Secure attendance logging with Flask backend
-- 🔄 CSV data export for easy integration
-
-### 🏫 [Surjamukhi Kindergarten Website](https://surjamukhikindergarten.sheikhshariarnehal.com/)
-> Custom educational institution website
-
-- 🎨 Modern, responsive design
-- 🧑‍🏫 Interactive UI for parents and staff
-- 📱 Mobile-optimized experience
-- 🧰 Built with vanilla HTML, CSS, JavaScript
-
 ## 📬 Let's Connect
 
 <div align="center">
