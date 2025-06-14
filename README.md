@@ -1,104 +1,99 @@
-<!-- GitHub Profile README for Sheikh Shariar Nehal -->
+<!-- Modern GitHub Profile README for Sheikh Shariar Nehal -->
 
-<h1 align="center">Hi, I'm Sheikh Shariar Nehal 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sheikh%20Shariar%20Nehal&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header Banner" width="100%"/>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-sheikhshariarnehal.com-0A66C2?style=for-the-badge&logo=Safari&logoColor=white)](https://www.sheikhshariarnehal.com/)
+  [![GitHub](https://img.shields.io/github/followers/sheikhshariarnehal?style=for-the-badge&logo=github&label=Follow&labelColor=181717&color=24292E)](https://github.com/sheikhshariarnehal)
+</div>
 
-<p align="center">
-  <a href="https://www.sheikhshariarnehal.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/sheikhshariarnehal" target="_blank">
-    <img src="https://img.shields.io/github/followers/sheikhshariarnehal?style=for-the-badge&label=Follow&logo=github" alt="GitHub Followers" />
-  </a>
-</p>
+<div align="center">
+  <h3>Software Developer | Full-Stack Engineer | Problem Solver</h3>
+</div>
 
----
+## 👨‍💻 About Me
 
-## 🧑‍💻 About Me
+> Software Developer with 5+ years of experience crafting web applications, designing efficient architectures, and solving complex problems.
 
-I’m a **Software Developer** and **Engineer** with over **5 years of experience** in web development, application architecture, and creative problem-solving. I specialize in building full-stack web applications, scalable APIs, and modern user interfaces. I’m also a freelance developer and designer on platforms like **Fiverr**.
+I specialize in building **full-stack web applications**, **scalable APIs**, and **modern UIs**. With a strong foundation in both frontend and backend technologies, I create solutions that are not only functional but also provide exceptional user experiences.
 
-🌱 Currently working on:
-- **NestTask** — a university-focused task management system with real-time sync, offline support, Firebase auth, PWA features, and multiple dashboards.
+- 🔭 **Currently working on:** NestTask — A university-focused task management system
+- 🌱 **Learning:** Advanced TypeScript patterns, Serverless architectures
+- 💼 **Freelancing:** Providing development services on Fiverr
+- 🚀 **Passionate about:** Clean code, UX design, Modern tech solutions
 
-🚀 I'm passionate about:
-- Creating clean and performant code
-- Designing delightful user experiences
-- Leveraging modern tech for impactful solutions
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-## 🛠️ Skills & Technologies
+| **Frontend** | **Backend** | **Database** | **DevOps** | **Tools** |
+|:------------:|:-----------:|:------------:|:----------:|:---------:|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
+</div>
 
 ## 🚀 Featured Projects
 
-### 📌 [NestTask](https://github.com/sheikhshariarnehal/nesttask)
-A comprehensive university task management and scheduling PWA for managing tasks, class routines, and teacher profiles with:
-- 🔒 Firebase Auth
-- 📡 Real-time and offline sync (IndexedDB + Background Sync)
-- 📱 React + TypeScript + Tailwind UI
-- 🔔 FCM Push Notifications & Telegram Bot integration
+<div align="center">
 
-### 📌 [Face Recognition Attendance System](https://github.com/sheikhshariarnehal)
-An intelligent attendance system using:
-- 🎥 OpenCV for face detection
-- 🧠 Face recognition for secure identity verification
-- 📄 CSV logging with Flask backend
+<a href="https://github.com/sheikhshariarnehal/nesttask">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheikhshariarnehal&repo=nesttask&theme=react&hide_border=true&show_icons=true" />
+</a>
 
-### 📌 [Surjamukhi Kindergarten Website](https://surjamukhikindergarten.sheikhshariarnehal.com/)
-A custom-designed educational website built with:
-- 🧑‍🏫 Interactive UI for parents and teachers
-- 🧾 Curriculum, admission, gallery, and more
-- 🧰 Modern responsive design using HTML, CSS, JS
+</div>
 
----
+### 📱 NestTask
+> University task management and scheduling PWA
 
-## 📬 Contact Me
+- 🔒 **Security:** Firebase Authentication
+- 📡 **Data:** Real-time and offline sync via IndexedDB + Background Sync
+- 💻 **Tech:** React, TypeScript, Tailwind UI
+- 🔔 **Features:** FCM Push Notifications, Telegram Bot integration
 
-📧 **Email:** sheikhshariarnehal@gmail.com  
-🌐 **Portfolio:** [sheikhshariarnehal.com](https://www.sheikhshariarnehal.com/)  
-📄 **Resume:** [View PDF](https://www.sheikhshariarnehal.com/resume.pdf) *(if available)*
+### 🎥 Face Recognition Attendance System
+> Intelligent attendance tracking solution
 
----
+- 👁️ OpenCV for precision face detection
+- 🧠 Advanced face recognition algorithms
+- 📊 Secure attendance logging with Flask backend
+- 🔄 CSV data export for easy integration
 
-## 🌐 Connect With Me
+### 🏫 [Surjamukhi Kindergarten Website](https://surjamukhikindergarten.sheikhshariarnehal.com/)
+> Custom educational institution website
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sheikhshariarnehal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sheikhshariarnehal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:sheikhshariarnehal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 🎨 Modern, responsive design
+- 🧑‍🏫 Interactive UI for parents and staff
+- 📱 Mobile-optimized experience
+- 🧰 Built with vanilla HTML, CSS, JavaScript
 
----
+## 📬 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheikh_Shariar_Nehal-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sheikhshariarnehal/)
+[![Email](https://img.shields.io/badge/Email-sheikhshariarnehal@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sheikhshariarnehal@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sheikhshariarnehal.com-4285F4?style=for-the-badge&logo=google-chrome)](https://www.sheikhshariarnehal.com/)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-2B579A?style=for-the-badge&logo=microsoftword)](https://www.sheikhshariarnehal.com/resume.pdf)
+  
+</div>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikhshariarnehal&show_icons=true&theme=radical" alt="Nehal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhshariarnehal&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshariarnehal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhshariarnehal&theme=github_dark" width="100%" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikhshariarnehal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhshariarnehal&theme=github_dark&hide_border=true" width="49%" alt="GitHub Streak"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhshariarnehal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+</div>
 
 ---
 
-<p align="center">Built with ❤️ by <a href="https://www.sheikhshariarnehal.com/">Sheikh Shariar Nehal</a></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheikhshariarnehal&color=blue" alt="Profile Views"/>
+  <p>✨ <strong>Built with passion by <a href="https://www.sheikhshariarnehal.com/">Sheikh Shariar Nehal</a></strong> ✨</p>
+</div>
