@@ -1,10 +1,11 @@
+
+<!-- Animated Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C5CE7&height=100&section=header" width="100%"/>
+
 <!-- Animated Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sheikh+Shariar+Nehal;Full-Stack+Developer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
 </div>
-
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C5CE7&height=100&section=header" width="100%"/>
 
 <!-- Introduction -->
 <div align="center">
